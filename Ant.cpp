@@ -1,5 +1,5 @@
 /*******************************************************************************
-** Program:		Project 1 - Langton's Ant
+** Program:		Langton's Ant
 ** Author:		Elaine Kim
 ** Date:		July 1, 2019
 ** Description:	This program simulates Langton's Ant. The user chooses how many 
@@ -20,8 +20,8 @@ Ant::Ant()
 {
 	rows = 0;
 	columns = 0;
-    steps = 0;
-    direction = NORTH;
+    	steps = 0;
+  	direction = NORTH;
 	board = NULL;
 }
 
