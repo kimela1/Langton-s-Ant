@@ -1,5 +1,5 @@
 /*******************************************************************************
-** Program:		Project 1 - Langton's Ant
+** Program:		Langton's Ant
 ** Author:		Elaine Kim
 ** Date:		July 1, 2019
 ** Description:	This is the header file for Ant.cpp that contains the Ant class
