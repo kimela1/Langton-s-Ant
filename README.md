@@ -8,4 +8,5 @@ The ant is placed onto the board that is filled with white spaces, and starts mo
 After that the ant moves to the next step and continue moving forward. The ant will follow these rules, and continue moving around
 the board, until the number of steps runs out.
 
+**Simulation of 11,000 steps:**
 ![Langton's Ant Simulation](https://github.com/kimela1/Langton-s-Ant/blob/master/Simulation.gif)
