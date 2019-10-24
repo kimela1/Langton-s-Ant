@@ -3,7 +3,7 @@ A program that simulates the universal Turing machine known as Langton's Ant wit
 
 **Langton’s Ant Rule:**
 The ant is placed onto the board that is filled with white spaces, and starts moving forward. For each step forward, the Langton’s ant will follow 2 rules: <br/>
-    1. If the ant is on a white space, turn right 90 degrees and change the space to black. <br/>
-    2. If the ant is on a black space, turn left 90 degrees and change the space to white. <br/>
+        1. If the ant is on a white space, turn right 90 degrees and change the space to black. <br/>
+        2. If the ant is on a black space, turn left 90 degrees and change the space to white. <br/>
 After that the ant moves to the next step and continue moving forward. The ant will follow these rules, and continue moving around
 the board, until the number of steps runs out.
